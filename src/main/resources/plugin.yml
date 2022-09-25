@@ -1,0 +1,10 @@
+name: SuperMobCoinsShopBridge
+version: '${project.version}'
+main: me.wtfblaze.shopguisupermobcoinsbridge.BridgePlugin
+api-version: 1.18
+prefix: MobCoinsBridge
+authors: [ WTFBlaze ]
+description: A plugin to Bridge ShopGUI+ & SuperMobCoins together
+depend:
+  - ShopGUIPlus
+  - SuperMobCoins
