@@ -1,4 +1,4 @@
-# SuperMobCoins_ShopGUIPlus_Bridge
+# SuperMobCoins ShopGUIPlus Bridge
 A Spigot plugin designed to bridge SuperMobCoins with ShopGUI+
 
 ## Installation
